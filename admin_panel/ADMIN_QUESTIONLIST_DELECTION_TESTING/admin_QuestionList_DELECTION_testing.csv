@@ -1,0 +1,526 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1546073919764,2091,http://localhost:33143/Administator/UserSignUp/1004,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-2,text,false,,218718,3573,4,4,http://localhost:33143/Administator/UserSignUp/1004,143,0,0
+1546073919764,143,http://localhost:33143/Administator/UserSignUp/1004-0,200,OK,Thread Group 1-2,text,true,,10037,396,4,4,http://localhost:33143/Administator/UserSignUp/1004,143,0,0
+1546073919923,82,http://localhost:33143/Administator/UserSignUp/1004-1,200,OK,Thread Group 1-2,text,true,,28148,385,4,4,http://localhost:33143/css/bootstrap.css,81,0,0
+1546073919924,54,http://localhost:33143/Administator/UserSignUp/1004-2,200,OK,Thread Group 1-2,text,true,,1521,391,4,4,http://localhost:33143/css/modern-business.css,54,0,1
+1546073919925,72,http://localhost:33143/Administator/UserSignUp/1004-3,200,OK,Thread Group 1-2,text,true,,22319,398,4,4,http://localhost:33143/Scripts/jquery.validate.min.js,72,0,1
+1546073919926,74,http://localhost:33143/Administator/UserSignUp/1004-4,200,OK,Thread Group 1-2,text,true,,6172,410,4,4,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,74,0,1
+1546073919926,1929,http://localhost:33143/Administator/UserSignUp/1004-5,200,OK,Thread Group 1-2,text,true,,34129,409,4,4,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,1542,0,1229
+1546073919941,108,http://localhost:33143/Administator/UserSignUp/1004-6,200,OK,Thread Group 1-2,text,true,,55695,383,4,4,http://localhost:33143/js/bootstrap.js,108,0,1
+1546073919982,21,http://localhost:33143/Administator/UserSignUp/1004-7,404,Not Found,Thread Group 1-2,text,false,,5404,389,4,4,http://localhost:33143/js/modern-business.js,21,0,1
+1546073919998,95,http://localhost:33143/Administator/UserSignUp/1004-8,200,OK,Thread Group 1-2,text,true,,55293,412,4,4,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,56,0,1
+1546073918806,3054,http://localhost:33143/Administator/UserSignUp/1004,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-1,text,false,,218720,3573,4,4,http://localhost:33143/Administator/UserSignUp/1004,110,0,23
+1546073918806,111,http://localhost:33143/Administator/UserSignUp/1004-0,200,OK,Thread Group 1-1,text,true,,10039,396,4,4,http://localhost:33143/Administator/UserSignUp/1004,110,0,23
+1546073919003,46,http://localhost:33143/Administator/UserSignUp/1004-1,200,OK,Thread Group 1-1,text,true,,28148,385,4,4,http://localhost:33143/css/bootstrap.css,45,0,0
+1546073919004,17,http://localhost:33143/Administator/UserSignUp/1004-2,200,OK,Thread Group 1-1,text,true,,1521,391,4,4,http://localhost:33143/css/modern-business.css,17,0,2
+1546073919011,20,http://localhost:33143/Administator/UserSignUp/1004-3,200,OK,Thread Group 1-1,text,true,,22319,398,4,4,http://localhost:33143/Scripts/jquery.validate.min.js,19,0,0
+1546073919005,15,http://localhost:33143/Administator/UserSignUp/1004-4,200,OK,Thread Group 1-1,text,true,,6172,410,4,4,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,14,0,1
+1546073919005,2855,http://localhost:33143/Administator/UserSignUp/1004-5,200,OK,Thread Group 1-1,text,true,,34129,409,4,4,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,2463,0,2150
+1546073919007,13,http://localhost:33143/Administator/UserSignUp/1004-6,200,OK,Thread Group 1-1,text,true,,55695,383,4,4,http://localhost:33143/js/bootstrap.js,13,0,1
+1546073919023,11,http://localhost:33143/Administator/UserSignUp/1004-7,404,Not Found,Thread Group 1-1,text,false,,5404,389,4,4,http://localhost:33143/js/modern-business.js,11,0,2
+1546073919026,49,http://localhost:33143/Administator/UserSignUp/1004-8,200,OK,Thread Group 1-1,text,true,,55293,412,4,4,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,36,0,1
+1546073920792,1778,http://localhost:33143/Administator/UserSignUp/1004,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-3,text,false,,218720,3573,4,4,http://localhost:33143/Administator/UserSignUp/1004,145,0,2
+1546073920792,146,http://localhost:33143/Administator/UserSignUp/1004-0,200,OK,Thread Group 1-3,text,true,,10039,396,4,4,http://localhost:33143/Administator/UserSignUp/1004,145,0,2
+1546073920951,9,http://localhost:33143/Administator/UserSignUp/1004-1,200,OK,Thread Group 1-3,text,true,,28148,385,4,4,http://localhost:33143/css/bootstrap.css,8,0,0
+1546073920951,18,http://localhost:33143/Administator/UserSignUp/1004-2,200,OK,Thread Group 1-3,text,true,,1521,391,4,4,http://localhost:33143/css/modern-business.css,18,0,1
+1546073920951,32,http://localhost:33143/Administator/UserSignUp/1004-3,200,OK,Thread Group 1-3,text,true,,22319,398,4,4,http://localhost:33143/Scripts/jquery.validate.min.js,32,0,2
+1546073920952,31,http://localhost:33143/Administator/UserSignUp/1004-4,200,OK,Thread Group 1-3,text,true,,6172,410,4,4,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,31,0,0
+1546073920952,1618,http://localhost:33143/Administator/UserSignUp/1004-5,200,OK,Thread Group 1-3,text,true,,34129,409,4,4,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,1228,0,921
+1546073920975,9,http://localhost:33143/Administator/UserSignUp/1004-6,200,OK,Thread Group 1-3,text,true,,55695,383,4,4,http://localhost:33143/js/bootstrap.js,9,0,1
+1546073920961,16,http://localhost:33143/Administator/UserSignUp/1004-7,404,Not Found,Thread Group 1-3,text,false,,5404,389,4,4,http://localhost:33143/js/modern-business.js,16,0,1
+1546073920970,26,http://localhost:33143/Administator/UserSignUp/1004-8,200,OK,Thread Group 1-3,text,true,,55293,412,4,4,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,18,0,1
+1546073921746,1808,http://localhost:33143/Administator/UserSignUp/1004,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-4,text,false,,218720,3573,5,5,http://localhost:33143/Administator/UserSignUp/1004,154,0,2
+1546073921746,155,http://localhost:33143/Administator/UserSignUp/1004-0,200,OK,Thread Group 1-4,text,true,,10039,396,5,5,http://localhost:33143/Administator/UserSignUp/1004,154,0,2
+1546073921910,13,http://localhost:33143/Administator/UserSignUp/1004-1,200,OK,Thread Group 1-4,text,true,,28148,385,5,5,http://localhost:33143/css/bootstrap.css,12,0,2
+1546073921911,5,http://localhost:33143/Administator/UserSignUp/1004-2,200,OK,Thread Group 1-4,text,true,,1521,391,5,5,http://localhost:33143/css/modern-business.css,5,0,0
+1546073921910,22,http://localhost:33143/Administator/UserSignUp/1004-3,200,OK,Thread Group 1-4,text,true,,22319,398,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,22,0,0
+1546073921910,9,http://localhost:33143/Administator/UserSignUp/1004-4,200,OK,Thread Group 1-4,text,true,,6172,410,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,9,0,0
+1546073921909,1645,http://localhost:33143/Administator/UserSignUp/1004-5,200,OK,Thread Group 1-4,text,true,,34129,409,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,1254,0,913
+1546073921912,20,http://localhost:33143/Administator/UserSignUp/1004-6,200,OK,Thread Group 1-4,text,true,,55695,383,5,5,http://localhost:33143/js/bootstrap.js,20,0,0
+1546073921917,9,http://localhost:33143/Administator/UserSignUp/1004-7,404,Not Found,Thread Group 1-4,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,9,0,1
+1546073921920,18,http://localhost:33143/Administator/UserSignUp/1004-8,200,OK,Thread Group 1-4,text,true,,55293,412,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,11,0,1
+1546073922745,1464,http://localhost:33143/Administator/UserSignUp/1004,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-5,text,false,,218721,3573,5,5,http://localhost:33143/Administator/UserSignUp/1004,59,0,2
+1546073922745,60,http://localhost:33143/Administator/UserSignUp/1004-0,200,OK,Thread Group 1-5,text,true,,10040,396,5,5,http://localhost:33143/Administator/UserSignUp/1004,59,0,2
+1546073922812,8,http://localhost:33143/Administator/UserSignUp/1004-1,200,OK,Thread Group 1-5,text,true,,28148,385,5,5,http://localhost:33143/css/bootstrap.css,7,0,1
+1546073922812,6,http://localhost:33143/Administator/UserSignUp/1004-2,200,OK,Thread Group 1-5,text,true,,1521,391,5,5,http://localhost:33143/css/modern-business.css,6,0,0
+1546073922813,10,http://localhost:33143/Administator/UserSignUp/1004-3,200,OK,Thread Group 1-5,text,true,,22319,398,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,10,0,1
+1546073922814,9,http://localhost:33143/Administator/UserSignUp/1004-4,200,OK,Thread Group 1-5,text,true,,6172,410,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,9,0,0
+1546073922812,1397,http://localhost:33143/Administator/UserSignUp/1004-5,200,OK,Thread Group 1-5,text,true,,34129,409,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,1009,0,639
+1546073922814,13,http://localhost:33143/Administator/UserSignUp/1004-6,200,OK,Thread Group 1-5,text,true,,55695,383,5,5,http://localhost:33143/js/bootstrap.js,13,0,1
+1546073922820,6,http://localhost:33143/Administator/UserSignUp/1004-7,404,Not Found,Thread Group 1-5,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,6,0,0
+1546073922822,10,http://localhost:33143/Administator/UserSignUp/1004-8,200,OK,Thread Group 1-5,text,true,,55293,412,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,7,0,1
+1546073924486,1354,http://localhost:33143/Administator/UserSignUp/4,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-2,text,false,,72664,4087,5,5,http://localhost:33143/Administator/UserSignUp/4,85,0,6
+1546073924486,86,http://localhost:33143/Administator/UserSignUp/4-0,200,OK,Thread Group 1-2,text,true,,10036,393,5,5,http://localhost:33143/Administator/UserSignUp/4,85,0,6
+1546073924581,14,http://localhost:33143/Administator/UserSignUp/4-1,304,Not Modified,Thread Group 1-2,,true,,339,468,5,5,http://localhost:33143/css/bootstrap.css,0,0,0
+1546073924588,10,http://localhost:33143/Administator/UserSignUp/4-2,304,Not Modified,Thread Group 1-2,,true,,346,473,5,5,http://localhost:33143/css/modern-business.css,0,0,1
+1546073924587,5,http://localhost:33143/Administator/UserSignUp/4-3,304,Not Modified,Thread Group 1-2,,true,,360,482,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,0,0,3
+1546073924586,6,http://localhost:33143/Administator/UserSignUp/4-4,304,Not Modified,Thread Group 1-2,,true,,376,494,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,0,0,1
+1546073924586,1254,http://localhost:33143/Administator/UserSignUp/4-5,304,Not Modified,Thread Group 1-2,,true,,170,459,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,0,0,972
+1546073924586,12,http://localhost:33143/Administator/UserSignUp/4-6,304,Not Modified,Thread Group 1-2,,true,,340,467,5,5,http://localhost:33143/js/bootstrap.js,0,0,3
+1546073924593,6,http://localhost:33143/Administator/UserSignUp/4-7,404,Not Found,Thread Group 1-2,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,6,0,1
+1546073924593,18,http://localhost:33143/Administator/UserSignUp/4-8,200,OK,Thread Group 1-2,text,true,,55293,462,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,13,0,1
+1546073919761,3445,Test,,"Number of samples in transaction : 2, number of failing samples : 2",Thread Group 1-2,,false,,291382,7660,5,5,null,228,2635,6
+1546073924488,1359,http://localhost:33143/Administator/UserSignUp/4,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-1,text,false,,72663,4087,5,5,http://localhost:33143/Administator/UserSignUp/4,80,0,5
+1546073924488,80,http://localhost:33143/Administator/UserSignUp/4-0,200,OK,Thread Group 1-1,text,true,,10035,393,5,5,http://localhost:33143/Administator/UserSignUp/4,80,0,5
+1546073924575,14,http://localhost:33143/Administator/UserSignUp/4-1,304,Not Modified,Thread Group 1-1,,true,,339,468,5,5,http://localhost:33143/css/bootstrap.css,0,0,0
+1546073924579,7,http://localhost:33143/Administator/UserSignUp/4-2,304,Not Modified,Thread Group 1-1,,true,,346,473,5,5,http://localhost:33143/css/modern-business.css,0,0,1
+1546073924576,6,http://localhost:33143/Administator/UserSignUp/4-3,304,Not Modified,Thread Group 1-1,,true,,360,482,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,0,0,2
+1546073924576,6,http://localhost:33143/Administator/UserSignUp/4-4,304,Not Modified,Thread Group 1-1,,true,,376,494,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,0,0,1
+1546073924579,1268,http://localhost:33143/Administator/UserSignUp/4-5,304,Not Modified,Thread Group 1-1,,true,,170,459,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,0,0,983
+1546073924582,16,http://localhost:33143/Administator/UserSignUp/4-6,304,Not Modified,Thread Group 1-1,,true,,340,467,5,5,http://localhost:33143/js/bootstrap.js,0,0,0
+1546073924583,3,http://localhost:33143/Administator/UserSignUp/4-7,404,Not Found,Thread Group 1-1,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,3,0,0
+1546073924583,26,http://localhost:33143/Administator/UserSignUp/4-8,200,OK,Thread Group 1-1,text,true,,55293,462,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,13,0,1
+1546073918742,4413,Test,,"Number of samples in transaction : 2, number of failing samples : 2",Thread Group 1-1,,false,,291383,7660,5,5,null,190,2690,28
+1546073925197,1293,http://localhost:33143/Administator/UserSignUp/4,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-3,text,false,,72662,4087,5,5,http://localhost:33143/Administator/UserSignUp/4,119,0,4
+1546073925197,119,http://localhost:33143/Administator/UserSignUp/4-0,200,OK,Thread Group 1-3,text,true,,10034,393,5,5,http://localhost:33143/Administator/UserSignUp/4,119,0,4
+1546073925320,16,http://localhost:33143/Administator/UserSignUp/4-1,304,Not Modified,Thread Group 1-3,,true,,339,468,5,5,http://localhost:33143/css/bootstrap.css,0,0,0
+1546073925324,4,http://localhost:33143/Administator/UserSignUp/4-2,304,Not Modified,Thread Group 1-3,,true,,346,473,5,5,http://localhost:33143/css/modern-business.css,0,0,0
+1546073925323,5,http://localhost:33143/Administator/UserSignUp/4-3,304,Not Modified,Thread Group 1-3,,true,,360,482,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,0,0,1
+1546073925325,9,http://localhost:33143/Administator/UserSignUp/4-4,304,Not Modified,Thread Group 1-3,,true,,376,494,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,0,0,0
+1546073925326,1164,http://localhost:33143/Administator/UserSignUp/4-5,304,Not Modified,Thread Group 1-3,,true,,170,459,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,0,0,882
+1546073925322,14,http://localhost:33143/Administator/UserSignUp/4-6,304,Not Modified,Thread Group 1-3,,true,,340,467,5,5,http://localhost:33143/js/bootstrap.js,0,0,1
+1546073925328,10,http://localhost:33143/Administator/UserSignUp/4-7,404,Not Found,Thread Group 1-3,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,10,0,1
+1546073925329,15,http://localhost:33143/Administator/UserSignUp/4-8,200,OK,Thread Group 1-3,text,true,,55293,462,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,12,0,1
+1546073920750,3071,Test,,"Number of samples in transaction : 2, number of failing samples : 2",Thread Group 1-3,,false,,291382,7660,5,5,null,264,2670,6
+1546073925851,894,http://localhost:33143/Administator/UserSignUp/1004,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-1,text,false,,218721,3573,5,5,http://localhost:33143/Administator/UserSignUp/1004,111,0,1
+1546073925851,113,http://localhost:33143/Administator/UserSignUp/1004-0,200,OK,Thread Group 1-1,text,true,,10040,396,5,5,http://localhost:33143/Administator/UserSignUp/1004,111,0,1
+1546073925971,24,http://localhost:33143/Administator/UserSignUp/1004-1,200,OK,Thread Group 1-1,text,true,,28148,385,5,5,http://localhost:33143/css/bootstrap.css,23,0,0
+1546073925982,5,http://localhost:33143/Administator/UserSignUp/1004-2,200,OK,Thread Group 1-1,text,true,,1521,391,5,5,http://localhost:33143/css/modern-business.css,5,0,1
+1546073925983,12,http://localhost:33143/Administator/UserSignUp/1004-3,200,OK,Thread Group 1-1,text,true,,22319,398,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,12,0,1
+1546073925983,13,http://localhost:33143/Administator/UserSignUp/1004-4,200,OK,Thread Group 1-1,text,true,,6172,410,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,13,0,1
+1546073925984,761,http://localhost:33143/Administator/UserSignUp/1004-5,200,OK,Thread Group 1-1,text,true,,34129,409,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,497,0,316
+1546073925982,10,http://localhost:33143/Administator/UserSignUp/1004-6,200,OK,Thread Group 1-1,text,true,,55695,383,5,5,http://localhost:33143/js/bootstrap.js,10,0,1
+1546073925988,4,http://localhost:33143/Administator/UserSignUp/1004-7,404,Not Found,Thread Group 1-1,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,4,0,1
+1546073925993,12,http://localhost:33143/Administator/UserSignUp/1004-8,200,OK,Thread Group 1-1,text,true,,55293,412,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,6,0,1
+1546073926180,955,http://localhost:33143/Administator/UserSignUp/4,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-4,text,false,,72665,4087,5,5,http://localhost:33143/Administator/UserSignUp/4,87,0,4
+1546073926180,88,http://localhost:33143/Administator/UserSignUp/4-0,200,OK,Thread Group 1-4,text,true,,10037,393,5,5,http://localhost:33143/Administator/UserSignUp/4,87,0,4
+1546073926271,7,http://localhost:33143/Administator/UserSignUp/4-1,304,Not Modified,Thread Group 1-4,,true,,339,468,5,5,http://localhost:33143/css/bootstrap.css,0,0,2
+1546073926271,3,http://localhost:33143/Administator/UserSignUp/4-2,304,Not Modified,Thread Group 1-4,,true,,346,473,5,5,http://localhost:33143/css/modern-business.css,0,0,1
+1546073926271,6,http://localhost:33143/Administator/UserSignUp/4-3,304,Not Modified,Thread Group 1-4,,true,,360,482,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,0,0,0
+1546073926272,3,http://localhost:33143/Administator/UserSignUp/4-4,304,Not Modified,Thread Group 1-4,,true,,376,494,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,0,0,1
+1546073926273,862,http://localhost:33143/Administator/UserSignUp/4-5,304,Not Modified,Thread Group 1-4,,true,,170,459,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,0,0,577
+1546073926272,7,http://localhost:33143/Administator/UserSignUp/4-6,304,Not Modified,Thread Group 1-4,,true,,340,467,5,5,http://localhost:33143/js/bootstrap.js,0,0,2
+1546073926274,7,http://localhost:33143/Administator/UserSignUp/4-7,404,Not Found,Thread Group 1-4,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,7,0,1
+1546073926276,10,http://localhost:33143/Administator/UserSignUp/4-8,200,OK,Thread Group 1-4,text,true,,55293,462,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,7,0,1
+1546073921744,2763,Test,,"Number of samples in transaction : 2, number of failing samples : 2",Thread Group 1-4,,false,,291385,7660,5,5,null,241,2629,6
+1546073926497,808,http://localhost:33143/Administator/UserSignUp/1004,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-3,text,false,,218721,3573,5,5,http://localhost:33143/Administator/UserSignUp/1004,135,0,1
+1546073926497,136,http://localhost:33143/Administator/UserSignUp/1004-0,200,OK,Thread Group 1-3,text,true,,10040,396,5,5,http://localhost:33143/Administator/UserSignUp/1004,135,0,1
+1546073926642,15,http://localhost:33143/Administator/UserSignUp/1004-1,200,OK,Thread Group 1-3,text,true,,28148,385,5,5,http://localhost:33143/css/bootstrap.css,13,0,1
+1546073926638,14,http://localhost:33143/Administator/UserSignUp/1004-2,200,OK,Thread Group 1-3,text,true,,1521,391,5,5,http://localhost:33143/css/modern-business.css,14,0,0
+1546073926639,14,http://localhost:33143/Administator/UserSignUp/1004-3,200,OK,Thread Group 1-3,text,true,,22319,398,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,14,0,1
+1546073926639,9,http://localhost:33143/Administator/UserSignUp/1004-4,200,OK,Thread Group 1-3,text,true,,6172,410,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,9,0,0
+1546073926639,666,http://localhost:33143/Administator/UserSignUp/1004-5,200,OK,Thread Group 1-3,text,true,,34129,409,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,486,0,372
+1546073926640,10,http://localhost:33143/Administator/UserSignUp/1004-6,200,OK,Thread Group 1-3,text,true,,55695,383,5,5,http://localhost:33143/js/bootstrap.js,10,0,0
+1546073926649,5,http://localhost:33143/Administator/UserSignUp/1004-7,404,Not Found,Thread Group 1-3,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,5,0,1
+1546073926651,16,http://localhost:33143/Administator/UserSignUp/1004-8,200,OK,Thread Group 1-3,text,true,,55293,412,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,10,0,1
+1546073926836,581,http://localhost:33143/Administator/UserSignUp/4,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-5,text,false,,72662,4087,5,5,http://localhost:33143/Administator/UserSignUp/4,106,0,4
+1546073926836,106,http://localhost:33143/Administator/UserSignUp/4-0,200,OK,Thread Group 1-5,text,true,,10034,393,5,5,http://localhost:33143/Administator/UserSignUp/4,106,0,4
+1546073926945,4,http://localhost:33143/Administator/UserSignUp/4-1,304,Not Modified,Thread Group 1-5,,true,,339,468,5,5,http://localhost:33143/css/bootstrap.css,0,0,0
+1546073926945,9,http://localhost:33143/Administator/UserSignUp/4-2,304,Not Modified,Thread Group 1-5,,true,,346,473,5,5,http://localhost:33143/css/modern-business.css,0,0,3
+1546073926946,5,http://localhost:33143/Administator/UserSignUp/4-3,304,Not Modified,Thread Group 1-5,,true,,360,482,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,0,0,1
+1546073926945,8,http://localhost:33143/Administator/UserSignUp/4-4,304,Not Modified,Thread Group 1-5,,true,,376,494,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,0,0,3
+1546073926946,471,http://localhost:33143/Administator/UserSignUp/4-5,304,Not Modified,Thread Group 1-5,,true,,170,459,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,0,0,363
+1546073926947,9,http://localhost:33143/Administator/UserSignUp/4-6,304,Not Modified,Thread Group 1-5,,true,,340,467,5,5,http://localhost:33143/js/bootstrap.js,0,0,1
+1546073926950,6,http://localhost:33143/Administator/UserSignUp/4-7,404,Not Found,Thread Group 1-5,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,6,0,0
+1546073926951,12,http://localhost:33143/Administator/UserSignUp/4-8,200,OK,Thread Group 1-5,text,true,,55293,462,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,9,0,1
+1546073922742,2045,Test,,"Number of samples in transaction : 2, number of failing samples : 2",Thread Group 1-5,,false,,291383,7660,5,5,null,165,2631,6
+1546073925845,1687,http://localhost:33143/Administator/UserSignUp/1004,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-2,text,false,,218719,3573,5,5,http://localhost:33143/Administator/UserSignUp/1004,81,0,1
+1546073925845,84,http://localhost:33143/Administator/UserSignUp/1004-0,200,OK,Thread Group 1-2,text,true,,10038,396,5,5,http://localhost:33143/Administator/UserSignUp/1004,81,0,1
+1546073925959,22,http://localhost:33143/Administator/UserSignUp/1004-1,200,OK,Thread Group 1-2,text,true,,28148,385,5,5,http://localhost:33143/css/bootstrap.css,19,0,0
+1546073925961,19,http://localhost:33143/Administator/UserSignUp/1004-2,200,OK,Thread Group 1-2,text,true,,1521,391,5,5,http://localhost:33143/css/modern-business.css,19,0,1
+1546073925961,17,http://localhost:33143/Administator/UserSignUp/1004-3,200,OK,Thread Group 1-2,text,true,,22319,398,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,17,0,1
+1546073925959,8,http://localhost:33143/Administator/UserSignUp/1004-4,200,OK,Thread Group 1-2,text,true,,6172,410,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,8,0,1
+1546073925959,1573,http://localhost:33143/Administator/UserSignUp/1004-5,200,OK,Thread Group 1-2,text,true,,34129,409,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,1173,0,888
+1546073925959,9,http://localhost:33143/Administator/UserSignUp/1004-6,200,OK,Thread Group 1-2,text,true,,55695,383,5,5,http://localhost:33143/js/bootstrap.js,8,0,2
+1546073925969,11,http://localhost:33143/Administator/UserSignUp/1004-7,404,Not Found,Thread Group 1-2,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,10,0,1
+1546073925971,34,http://localhost:33143/Administator/UserSignUp/1004-8,200,OK,Thread Group 1-2,text,true,,55293,412,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,7,0,0
+1546073927139,626,http://localhost:33143/Administator/UserSignUp/1004,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-4,text,false,,218722,3573,5,5,http://localhost:33143/Administator/UserSignUp/1004,72,0,1
+1546073927139,72,http://localhost:33143/Administator/UserSignUp/1004-0,200,OK,Thread Group 1-4,text,true,,10041,396,5,5,http://localhost:33143/Administator/UserSignUp/1004,72,0,1
+1546073927216,8,http://localhost:33143/Administator/UserSignUp/1004-1,200,OK,Thread Group 1-4,text,true,,28148,385,5,5,http://localhost:33143/css/bootstrap.css,7,0,0
+1546073927216,4,http://localhost:33143/Administator/UserSignUp/1004-2,200,OK,Thread Group 1-4,text,true,,1521,391,5,5,http://localhost:33143/css/modern-business.css,4,0,1
+1546073927216,12,http://localhost:33143/Administator/UserSignUp/1004-3,200,OK,Thread Group 1-4,text,true,,22319,398,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,12,0,1
+1546073927216,12,http://localhost:33143/Administator/UserSignUp/1004-4,200,OK,Thread Group 1-4,text,true,,6172,410,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,11,0,2
+1546073927216,549,http://localhost:33143/Administator/UserSignUp/1004-5,200,OK,Thread Group 1-4,text,true,,34129,409,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,363,0,242
+1546073927216,11,http://localhost:33143/Administator/UserSignUp/1004-6,200,OK,Thread Group 1-4,text,true,,55695,383,5,5,http://localhost:33143/js/bootstrap.js,11,0,2
+1546073927221,6,http://localhost:33143/Administator/UserSignUp/1004-7,404,Not Found,Thread Group 1-4,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,6,0,1
+1546073927226,14,http://localhost:33143/Administator/UserSignUp/1004-8,200,OK,Thread Group 1-4,text,true,,55293,412,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,10,0,0
+1546073927421,1701,http://localhost:33143/Administator/UserSignUp/1004,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-5,text,false,,218720,3573,5,5,http://localhost:33143/Administator/UserSignUp/1004,60,0,0
+1546073927421,60,http://localhost:33143/Administator/UserSignUp/1004-0,200,OK,Thread Group 1-5,text,true,,10039,396,5,5,http://localhost:33143/Administator/UserSignUp/1004,60,0,0
+1546073927484,8,http://localhost:33143/Administator/UserSignUp/1004-1,200,OK,Thread Group 1-5,text,true,,28148,385,5,5,http://localhost:33143/css/bootstrap.css,7,0,0
+1546073927484,10,http://localhost:33143/Administator/UserSignUp/1004-2,200,OK,Thread Group 1-5,text,true,,1521,391,5,5,http://localhost:33143/css/modern-business.css,9,0,2
+1546073927485,4,http://localhost:33143/Administator/UserSignUp/1004-3,200,OK,Thread Group 1-5,text,true,,22319,398,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,4,0,0
+1546073927485,6,http://localhost:33143/Administator/UserSignUp/1004-4,200,OK,Thread Group 1-5,text,true,,6172,410,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,6,0,1
+1546073927485,1637,http://localhost:33143/Administator/UserSignUp/1004-5,200,OK,Thread Group 1-5,text,true,,34129,409,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,1246,0,939
+1546073927484,9,http://localhost:33143/Administator/UserSignUp/1004-6,200,OK,Thread Group 1-5,text,true,,55695,383,5,5,http://localhost:33143/js/bootstrap.js,9,0,1
+1546073927490,6,http://localhost:33143/Administator/UserSignUp/1004-7,404,Not Found,Thread Group 1-5,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,6,0,1
+1546073927491,14,http://localhost:33143/Administator/UserSignUp/1004-8,200,OK,Thread Group 1-5,text,true,,55293,412,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,11,0,2
+1546073929377,1054,http://localhost:33143/Administator/UserSignUp/4,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-1,text,false,,72664,4087,5,5,http://localhost:33143/Administator/UserSignUp/4,71,0,1
+1546073929377,72,http://localhost:33143/Administator/UserSignUp/4-0,200,OK,Thread Group 1-1,text,true,,10036,393,5,5,http://localhost:33143/Administator/UserSignUp/4,71,0,1
+1546073929454,11,http://localhost:33143/Administator/UserSignUp/4-1,304,Not Modified,Thread Group 1-1,,true,,339,468,5,5,http://localhost:33143/css/bootstrap.css,0,0,1
+1546073929453,8,http://localhost:33143/Administator/UserSignUp/4-2,304,Not Modified,Thread Group 1-1,,true,,346,473,5,5,http://localhost:33143/css/modern-business.css,0,0,0
+1546073929454,3,http://localhost:33143/Administator/UserSignUp/4-3,304,Not Modified,Thread Group 1-1,,true,,360,482,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,0,0,0
+1546073929454,15,http://localhost:33143/Administator/UserSignUp/4-4,304,Not Modified,Thread Group 1-1,,true,,376,494,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,0,0,2
+1546073929454,977,http://localhost:33143/Administator/UserSignUp/4-5,304,Not Modified,Thread Group 1-1,,true,,170,459,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,0,0,694
+1546073929453,15,http://localhost:33143/Administator/UserSignUp/4-6,304,Not Modified,Thread Group 1-1,,true,,340,467,5,5,http://localhost:33143/js/bootstrap.js,0,0,4
+1546073929458,13,http://localhost:33143/Administator/UserSignUp/4-7,404,Not Found,Thread Group 1-1,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,13,0,1
+1546073929461,24,http://localhost:33143/Administator/UserSignUp/4-8,200,OK,Thread Group 1-1,text,true,,55293,462,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,12,0,1
+1546073925849,1948,Test,,"Number of samples in transaction : 2, number of failing samples : 2",Thread Group 1-1,,false,,291385,7660,5,5,null,182,2635,2
+1546073930159,486,http://localhost:33143/Administator/UserSignUp/4,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-2,text,false,,72662,4087,5,5,http://localhost:33143/Administator/UserSignUp/4,129,0,4
+1546073930159,129,http://localhost:33143/Administator/UserSignUp/4-0,200,OK,Thread Group 1-2,text,true,,10034,393,5,5,http://localhost:33143/Administator/UserSignUp/4,129,0,4
+1546073930292,2,http://localhost:33143/Administator/UserSignUp/4-1,304,Not Modified,Thread Group 1-2,,true,,339,468,5,5,http://localhost:33143/css/bootstrap.css,0,0,1
+1546073930292,8,http://localhost:33143/Administator/UserSignUp/4-2,304,Not Modified,Thread Group 1-2,,true,,346,473,5,5,http://localhost:33143/css/modern-business.css,0,0,2
+1546073930292,5,http://localhost:33143/Administator/UserSignUp/4-3,304,Not Modified,Thread Group 1-2,,true,,360,482,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,0,0,2
+1546073930292,7,http://localhost:33143/Administator/UserSignUp/4-4,304,Not Modified,Thread Group 1-2,,true,,376,494,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,0,0,2
+1546073930292,353,http://localhost:33143/Administator/UserSignUp/4-5,304,Not Modified,Thread Group 1-2,,true,,170,459,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,0,0,238
+1546073930292,2,http://localhost:33143/Administator/UserSignUp/4-6,304,Not Modified,Thread Group 1-2,,true,,340,467,5,5,http://localhost:33143/js/bootstrap.js,0,0,0
+1546073930295,6,http://localhost:33143/Administator/UserSignUp/4-7,404,Not Found,Thread Group 1-2,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,6,0,0
+1546073930295,11,http://localhost:33143/Administator/UserSignUp/4-8,200,OK,Thread Group 1-2,text,true,,55293,462,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,7,0,1
+1546073925841,2173,Test,,"Number of samples in transaction : 2, number of failing samples : 2",Thread Group 1-2,,false,,291381,7660,5,5,null,210,2632,5
+1546073929934,958,http://localhost:33143/Administator/UserSignUp/4,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-3,text,false,,72663,4087,5,5,http://localhost:33143/Administator/UserSignUp/4,97,0,2
+1546073929934,98,http://localhost:33143/Administator/UserSignUp/4-0,200,OK,Thread Group 1-3,text,true,,10035,393,5,5,http://localhost:33143/Administator/UserSignUp/4,97,0,2
+1546073930035,7,http://localhost:33143/Administator/UserSignUp/4-1,304,Not Modified,Thread Group 1-3,,true,,339,468,5,5,http://localhost:33143/css/bootstrap.css,0,0,0
+1546073930035,3,http://localhost:33143/Administator/UserSignUp/4-2,304,Not Modified,Thread Group 1-3,,true,,346,473,5,5,http://localhost:33143/css/modern-business.css,0,0,0
+1546073930035,5,http://localhost:33143/Administator/UserSignUp/4-3,304,Not Modified,Thread Group 1-3,,true,,360,482,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,0,0,0
+1546073930035,9,http://localhost:33143/Administator/UserSignUp/4-4,304,Not Modified,Thread Group 1-3,,true,,376,494,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,0,0,1
+1546073930035,857,http://localhost:33143/Administator/UserSignUp/4-5,304,Not Modified,Thread Group 1-3,,true,,170,459,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,0,0,574
+1546073930035,8,http://localhost:33143/Administator/UserSignUp/4-6,304,Not Modified,Thread Group 1-3,,true,,340,467,5,5,http://localhost:33143/js/bootstrap.js,0,0,1
+1546073930039,7,http://localhost:33143/Administator/UserSignUp/4-7,404,Not Found,Thread Group 1-3,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,7,0,1
+1546073930041,11,http://localhost:33143/Administator/UserSignUp/4-8,200,OK,Thread Group 1-3,text,true,,55293,462,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,8,0,0
+1546073926492,1766,Test,,"Number of samples in transaction : 2, number of failing samples : 2",Thread Group 1-3,,false,,291384,7660,5,5,null,232,2635,3
+1546073930648,584,http://localhost:33143/Administator/UserSignUp/1004,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-2,text,false,,218720,3573,5,5,http://localhost:33143/Administator/UserSignUp/1004,67,0,1
+1546073930648,67,http://localhost:33143/Administator/UserSignUp/1004-0,200,OK,Thread Group 1-2,text,true,,10039,396,5,5,http://localhost:33143/Administator/UserSignUp/1004,67,0,1
+1546073930720,11,http://localhost:33143/Administator/UserSignUp/1004-1,200,OK,Thread Group 1-2,text,true,,28148,385,5,5,http://localhost:33143/css/bootstrap.css,10,0,2
+1546073930720,4,http://localhost:33143/Administator/UserSignUp/1004-2,200,OK,Thread Group 1-2,text,true,,1521,391,5,5,http://localhost:33143/css/modern-business.css,4,0,0
+1546073930720,11,http://localhost:33143/Administator/UserSignUp/1004-3,200,OK,Thread Group 1-2,text,true,,22319,398,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,11,0,1
+1546073930721,10,http://localhost:33143/Administator/UserSignUp/1004-4,200,OK,Thread Group 1-2,text,true,,6172,410,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,10,0,0
+1546073930721,511,http://localhost:33143/Administator/UserSignUp/1004-5,200,OK,Thread Group 1-2,text,true,,34129,409,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,348,0,229
+1546073930721,9,http://localhost:33143/Administator/UserSignUp/1004-6,200,OK,Thread Group 1-2,text,true,,55695,383,5,5,http://localhost:33143/js/bootstrap.js,9,0,1
+1546073930725,2,http://localhost:33143/Administator/UserSignUp/1004-7,404,Not Found,Thread Group 1-2,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,2,0,1
+1546073930727,19,http://localhost:33143/Administator/UserSignUp/1004-8,200,OK,Thread Group 1-2,text,true,,55293,412,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,12,0,1
+1546073930391,943,http://localhost:33143/Administator/UserSignUp/4,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-4,text,false,,72665,4087,5,5,http://localhost:33143/Administator/UserSignUp/4,101,0,3
+1546073930391,102,http://localhost:33143/Administator/UserSignUp/4-0,200,OK,Thread Group 1-4,text,true,,10037,393,5,5,http://localhost:33143/Administator/UserSignUp/4,101,0,3
+1546073930497,5,http://localhost:33143/Administator/UserSignUp/4-1,304,Not Modified,Thread Group 1-4,,true,,339,468,5,5,http://localhost:33143/css/bootstrap.css,0,0,2
+1546073930497,4,http://localhost:33143/Administator/UserSignUp/4-2,304,Not Modified,Thread Group 1-4,,true,,346,473,5,5,http://localhost:33143/css/modern-business.css,0,0,0
+1546073930498,6,http://localhost:33143/Administator/UserSignUp/4-3,304,Not Modified,Thread Group 1-4,,true,,360,482,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,0,0,1
+1546073930498,7,http://localhost:33143/Administator/UserSignUp/4-4,304,Not Modified,Thread Group 1-4,,true,,376,494,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,0,0,2
+1546073930499,835,http://localhost:33143/Administator/UserSignUp/4-5,304,Not Modified,Thread Group 1-4,,true,,170,459,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,0,0,558
+1546073930499,8,http://localhost:33143/Administator/UserSignUp/4-6,304,Not Modified,Thread Group 1-4,,true,,340,467,5,5,http://localhost:33143/js/bootstrap.js,0,0,2
+1546073930501,8,http://localhost:33143/Administator/UserSignUp/4-7,404,Not Found,Thread Group 1-4,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,7,0,1
+1546073930503,28,http://localhost:33143/Administator/UserSignUp/4-8,200,OK,Thread Group 1-4,text,true,,55293,462,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,7,0,0
+1546073927136,1569,Test,,"Number of samples in transaction : 2, number of failing samples : 2",Thread Group 1-4,,false,,291387,7660,5,5,null,173,2631,4
+1546073930435,1662,http://localhost:33143/Administator/UserSignUp/1004,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-1,text,false,,218719,3573,5,5,http://localhost:33143/Administator/UserSignUp/1004,75,0,1
+1546073930435,75,http://localhost:33143/Administator/UserSignUp/1004-0,200,OK,Thread Group 1-1,text,true,,10038,396,5,5,http://localhost:33143/Administator/UserSignUp/1004,75,0,1
+1546073930514,11,http://localhost:33143/Administator/UserSignUp/1004-1,200,OK,Thread Group 1-1,text,true,,28148,385,5,5,http://localhost:33143/css/bootstrap.css,10,0,2
+1546073930515,7,http://localhost:33143/Administator/UserSignUp/1004-2,200,OK,Thread Group 1-1,text,true,,1521,391,5,5,http://localhost:33143/css/modern-business.css,7,0,1
+1546073930514,10,http://localhost:33143/Administator/UserSignUp/1004-3,200,OK,Thread Group 1-1,text,true,,22319,398,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,10,0,2
+1546073930515,9,http://localhost:33143/Administator/UserSignUp/1004-4,200,OK,Thread Group 1-1,text,true,,6172,410,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,9,0,0
+1546073930516,1581,http://localhost:33143/Administator/UserSignUp/1004-5,200,OK,Thread Group 1-1,text,true,,34129,409,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,1172,0,885
+1546073930516,5,http://localhost:33143/Administator/UserSignUp/1004-6,200,OK,Thread Group 1-1,text,true,,55695,383,5,5,http://localhost:33143/js/bootstrap.js,5,0,1
+1546073930521,5,http://localhost:33143/Administator/UserSignUp/1004-7,404,Not Found,Thread Group 1-1,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,5,0,1
+1546073930523,12,http://localhost:33143/Administator/UserSignUp/1004-8,200,OK,Thread Group 1-1,text,true,,55293,412,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,8,0,0
+1546073930895,1411,http://localhost:33143/Administator/UserSignUp/1004,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-3,text,false,,218721,3573,5,5,http://localhost:33143/Administator/UserSignUp/1004,67,0,1
+1546073930895,67,http://localhost:33143/Administator/UserSignUp/1004-0,200,OK,Thread Group 1-3,text,true,,10040,396,5,5,http://localhost:33143/Administator/UserSignUp/1004,67,0,1
+1546073930966,7,http://localhost:33143/Administator/UserSignUp/1004-1,200,OK,Thread Group 1-3,text,true,,28148,385,5,5,http://localhost:33143/css/bootstrap.css,6,0,0
+1546073930966,7,http://localhost:33143/Administator/UserSignUp/1004-2,200,OK,Thread Group 1-3,text,true,,1521,391,5,5,http://localhost:33143/css/modern-business.css,7,0,2
+1546073930966,11,http://localhost:33143/Administator/UserSignUp/1004-3,200,OK,Thread Group 1-3,text,true,,22319,398,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,11,0,1
+1546073930966,11,http://localhost:33143/Administator/UserSignUp/1004-4,200,OK,Thread Group 1-3,text,true,,6172,410,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,11,0,1
+1546073930967,1339,http://localhost:33143/Administator/UserSignUp/1004-5,200,OK,Thread Group 1-3,text,true,,34129,409,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,915,0,634
+1546073930967,15,http://localhost:33143/Administator/UserSignUp/1004-6,200,OK,Thread Group 1-3,text,true,,55695,383,5,5,http://localhost:33143/js/bootstrap.js,15,0,1
+1546073930974,5,http://localhost:33143/Administator/UserSignUp/1004-7,404,Not Found,Thread Group 1-3,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,5,0,1
+1546073930975,12,http://localhost:33143/Administator/UserSignUp/1004-8,200,OK,Thread Group 1-3,text,true,,55293,412,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,9,0,0
+1546073931748,978,http://localhost:33143/Administator/UserSignUp/4,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-5,text,false,,72664,4087,5,5,http://localhost:33143/Administator/UserSignUp/4,113,0,1
+1546073931340,1386,http://localhost:33143/Administator/UserSignUp/1004,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-4,text,false,,218720,3573,5,5,http://localhost:33143/Administator/UserSignUp/1004,79,0,2
+1546073931748,113,http://localhost:33143/Administator/UserSignUp/4-0,200,OK,Thread Group 1-5,text,true,,10036,393,5,5,http://localhost:33143/Administator/UserSignUp/4,113,0,1
+1546073931340,80,http://localhost:33143/Administator/UserSignUp/1004-0,200,OK,Thread Group 1-4,text,true,,10039,396,5,5,http://localhost:33143/Administator/UserSignUp/1004,79,0,2
+1546073931422,9,http://localhost:33143/Administator/UserSignUp/1004-1,200,OK,Thread Group 1-4,text,true,,28148,385,5,5,http://localhost:33143/css/bootstrap.css,8,0,1
+1546073931866,4,http://localhost:33143/Administator/UserSignUp/4-1,304,Not Modified,Thread Group 1-5,,true,,339,468,5,5,http://localhost:33143/css/bootstrap.css,0,0,1
+1546073931422,7,http://localhost:33143/Administator/UserSignUp/1004-2,200,OK,Thread Group 1-4,text,true,,1521,391,5,5,http://localhost:33143/css/modern-business.css,7,0,0
+1546073931423,3,http://localhost:33143/Administator/UserSignUp/1004-3,200,OK,Thread Group 1-4,text,true,,22319,398,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,3,0,1
+1546073931865,3,http://localhost:33143/Administator/UserSignUp/4-2,304,Not Modified,Thread Group 1-5,,true,,346,473,5,5,http://localhost:33143/css/modern-business.css,0,0,1
+1546073931424,6,http://localhost:33143/Administator/UserSignUp/1004-4,200,OK,Thread Group 1-4,text,true,,6172,410,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,6,0,0
+1546073931424,1302,http://localhost:33143/Administator/UserSignUp/1004-5,200,OK,Thread Group 1-4,text,true,,34129,409,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,867,0,579
+1546073931865,5,http://localhost:33143/Administator/UserSignUp/4-3,304,Not Modified,Thread Group 1-5,,true,,360,482,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,0,0,1
+1546073931424,2,http://localhost:33143/Administator/UserSignUp/1004-6,200,OK,Thread Group 1-4,text,true,,55695,383,5,5,http://localhost:33143/js/bootstrap.js,2,0,1
+1546073931865,3,http://localhost:33143/Administator/UserSignUp/4-4,304,Not Modified,Thread Group 1-5,,true,,376,494,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,0,0,0
+1546073931427,3,http://localhost:33143/Administator/UserSignUp/1004-7,404,Not Found,Thread Group 1-4,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,3,0,1
+1546073931865,861,http://localhost:33143/Administator/UserSignUp/4-5,304,Not Modified,Thread Group 1-5,,true,,170,459,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,0,0,573
+1546073931427,12,http://localhost:33143/Administator/UserSignUp/1004-8,200,OK,Thread Group 1-4,text,true,,55293,412,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,9,0,1
+1546073931866,6,http://localhost:33143/Administator/UserSignUp/4-6,304,Not Modified,Thread Group 1-5,,true,,340,467,5,5,http://localhost:33143/js/bootstrap.js,0,0,1
+1546073931868,5,http://localhost:33143/Administator/UserSignUp/4-7,404,Not Found,Thread Group 1-5,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,5,0,1
+1546073931868,10,http://localhost:33143/Administator/UserSignUp/4-8,200,OK,Thread Group 1-5,text,true,,55293,462,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,7,0,1
+1546073927418,2679,Test,,"Number of samples in transaction : 2, number of failing samples : 2",Thread Group 1-5,,false,,291384,7660,5,5,null,173,2631,1
+1546073932731,813,http://localhost:33143/Administator/UserSignUp/1004,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-5,text,false,,218721,3573,5,5,http://localhost:33143/Administator/UserSignUp/1004,76,0,1
+1546073932731,77,http://localhost:33143/Administator/UserSignUp/1004-0,200,OK,Thread Group 1-5,text,true,,10040,396,5,5,http://localhost:33143/Administator/UserSignUp/1004,76,0,1
+1546073932812,13,http://localhost:33143/Administator/UserSignUp/1004-1,200,OK,Thread Group 1-5,text,true,,28148,385,5,5,http://localhost:33143/css/bootstrap.css,12,0,0
+1546073932812,5,http://localhost:33143/Administator/UserSignUp/1004-2,200,OK,Thread Group 1-5,text,true,,1521,391,5,5,http://localhost:33143/css/modern-business.css,4,0,1
+1546073932812,12,http://localhost:33143/Administator/UserSignUp/1004-3,200,OK,Thread Group 1-5,text,true,,22319,398,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,12,0,1
+1546073932812,12,http://localhost:33143/Administator/UserSignUp/1004-4,200,OK,Thread Group 1-5,text,true,,6172,410,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,12,0,1
+1546073932812,732,http://localhost:33143/Administator/UserSignUp/1004-5,200,OK,Thread Group 1-5,text,true,,34129,409,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,528,0,351
+1546073932812,12,http://localhost:33143/Administator/UserSignUp/1004-6,200,OK,Thread Group 1-5,text,true,,55695,383,5,5,http://localhost:33143/js/bootstrap.js,12,0,1
+1546073932824,3,http://localhost:33143/Administator/UserSignUp/1004-7,404,Not Found,Thread Group 1-5,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,3,0,1
+1546073932824,15,http://localhost:33143/Administator/UserSignUp/1004-8,200,OK,Thread Group 1-5,text,true,,55293,412,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,10,0,1
+1546073933861,975,http://localhost:33143/Administator/UserSignUp/4,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-2,text,false,,72662,4087,5,5,http://localhost:33143/Administator/UserSignUp/4,78,0,4
+1546073933861,78,http://localhost:33143/Administator/UserSignUp/4-0,200,OK,Thread Group 1-2,text,true,,10034,393,5,5,http://localhost:33143/Administator/UserSignUp/4,78,0,4
+1546073933943,7,http://localhost:33143/Administator/UserSignUp/4-1,304,Not Modified,Thread Group 1-2,,true,,339,468,5,5,http://localhost:33143/css/bootstrap.css,0,0,1
+1546073933945,10,http://localhost:33143/Administator/UserSignUp/4-2,304,Not Modified,Thread Group 1-2,,true,,346,473,5,5,http://localhost:33143/css/modern-business.css,0,0,2
+1546073933943,5,http://localhost:33143/Administator/UserSignUp/4-3,304,Not Modified,Thread Group 1-2,,true,,360,482,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,0,0,0
+1546073933944,7,http://localhost:33143/Administator/UserSignUp/4-4,304,Not Modified,Thread Group 1-2,,true,,376,494,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,0,0,3
+1546073933944,892,http://localhost:33143/Administator/UserSignUp/4-5,304,Not Modified,Thread Group 1-2,,true,,170,459,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,0,0,565
+1546073933944,11,http://localhost:33143/Administator/UserSignUp/4-6,304,Not Modified,Thread Group 1-2,,true,,340,467,5,5,http://localhost:33143/js/bootstrap.js,0,0,2
+1546073933948,9,http://localhost:33143/Administator/UserSignUp/4-7,404,Not Found,Thread Group 1-2,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,8,0,1
+1546073933950,14,http://localhost:33143/Administator/UserSignUp/4-8,200,OK,Thread Group 1-2,text,true,,55293,462,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,10,0,1
+1546073930646,1559,Test,,"Number of samples in transaction : 2, number of failing samples : 2",Thread Group 1-2,,false,,291382,7660,5,5,null,145,2632,5
+1546073934727,1118,http://localhost:33143/Administator/UserSignUp/4,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-1,text,false,,72664,4087,5,5,http://localhost:33143/Administator/UserSignUp/4,97,0,4
+1546073934727,98,http://localhost:33143/Administator/UserSignUp/4-0,200,OK,Thread Group 1-1,text,true,,10036,393,5,5,http://localhost:33143/Administator/UserSignUp/4,97,0,4
+1546073934829,7,http://localhost:33143/Administator/UserSignUp/4-1,304,Not Modified,Thread Group 1-1,,true,,339,468,5,5,http://localhost:33143/css/bootstrap.css,0,0,0
+1546073934829,15,http://localhost:33143/Administator/UserSignUp/4-2,304,Not Modified,Thread Group 1-1,,true,,346,473,5,5,http://localhost:33143/css/modern-business.css,0,0,1
+1546073934829,13,http://localhost:33143/Administator/UserSignUp/4-3,304,Not Modified,Thread Group 1-1,,true,,360,482,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,0,0,3
+1546073934829,13,http://localhost:33143/Administator/UserSignUp/4-4,304,Not Modified,Thread Group 1-1,,true,,376,494,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,0,0,2
+1546073934832,1013,http://localhost:33143/Administator/UserSignUp/4-5,304,Not Modified,Thread Group 1-1,,true,,170,459,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,0,0,734
+1546073934833,14,http://localhost:33143/Administator/UserSignUp/4-6,304,Not Modified,Thread Group 1-1,,true,,340,467,5,5,http://localhost:33143/js/bootstrap.js,0,0,1
+1546073934837,10,http://localhost:33143/Administator/UserSignUp/4-7,404,Not Found,Thread Group 1-1,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,10,0,0
+1546073934842,14,http://localhost:33143/Administator/UserSignUp/4-8,200,OK,Thread Group 1-1,text,true,,55293,462,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,9,0,1
+1546073930432,2780,Test,,"Number of samples in transaction : 2, number of failing samples : 2",Thread Group 1-1,,false,,291383,7660,5,5,null,172,2634,5
+1546073934932,932,http://localhost:33143/Administator/UserSignUp/4,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-3,text,false,,72664,4087,5,5,http://localhost:33143/Administator/UserSignUp/4,72,0,1
+1546073934932,73,http://localhost:33143/Administator/UserSignUp/4-0,200,OK,Thread Group 1-3,text,true,,10036,393,5,5,http://localhost:33143/Administator/UserSignUp/4,72,0,1
+1546073935008,4,http://localhost:33143/Administator/UserSignUp/4-1,304,Not Modified,Thread Group 1-3,,true,,339,468,5,5,http://localhost:33143/css/bootstrap.css,0,0,0
+1546073935010,4,http://localhost:33143/Administator/UserSignUp/4-2,304,Not Modified,Thread Group 1-3,,true,,346,473,5,5,http://localhost:33143/css/modern-business.css,0,0,0
+1546073935008,13,http://localhost:33143/Administator/UserSignUp/4-3,304,Not Modified,Thread Group 1-3,,true,,360,482,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,0,0,3
+1546073935009,11,http://localhost:33143/Administator/UserSignUp/4-4,304,Not Modified,Thread Group 1-3,,true,,376,494,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,0,0,0
+1546073935009,855,http://localhost:33143/Administator/UserSignUp/4-5,304,Not Modified,Thread Group 1-3,,true,,170,459,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,0,0,567
+1546073935010,6,http://localhost:33143/Administator/UserSignUp/4-6,304,Not Modified,Thread Group 1-3,,true,,340,467,5,5,http://localhost:33143/js/bootstrap.js,0,0,0
+1546073935012,10,http://localhost:33143/Administator/UserSignUp/4-7,404,Not Found,Thread Group 1-3,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,10,0,1
+1546073935014,14,http://localhost:33143/Administator/UserSignUp/4-8,200,OK,Thread Group 1-3,text,true,,55293,462,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,11,0,1
+1546073930893,2343,Test,,"Number of samples in transaction : 2, number of failing samples : 2",Thread Group 1-3,,false,,291385,7660,5,5,null,139,2629,2
+1546073934840,1413,http://localhost:33143/Administator/UserSignUp/1004,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-2,text,false,,218719,3573,5,5,http://localhost:33143/Administator/UserSignUp/1004,104,0,0
+1546073934840,105,http://localhost:33143/Administator/UserSignUp/1004-0,200,OK,Thread Group 1-2,text,true,,10038,396,5,5,http://localhost:33143/Administator/UserSignUp/1004,104,0,0
+1546073934948,9,http://localhost:33143/Administator/UserSignUp/1004-1,200,OK,Thread Group 1-2,text,true,,28148,385,5,5,http://localhost:33143/css/bootstrap.css,8,0,3
+1546073934948,5,http://localhost:33143/Administator/UserSignUp/1004-2,200,OK,Thread Group 1-2,text,true,,1521,391,5,5,http://localhost:33143/css/modern-business.css,4,0,1
+1546073934948,10,http://localhost:33143/Administator/UserSignUp/1004-3,200,OK,Thread Group 1-2,text,true,,22319,398,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,10,0,0
+1546073934949,6,http://localhost:33143/Administator/UserSignUp/1004-4,200,OK,Thread Group 1-2,text,true,,6172,410,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,6,0,0
+1546073934949,1304,http://localhost:33143/Administator/UserSignUp/1004-5,200,OK,Thread Group 1-2,text,true,,34129,409,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,905,0,621
+1546073934949,8,http://localhost:33143/Administator/UserSignUp/1004-6,200,OK,Thread Group 1-2,text,true,,55695,383,5,5,http://localhost:33143/js/bootstrap.js,8,0,1
+1546073934953,3,http://localhost:33143/Administator/UserSignUp/1004-7,404,Not Found,Thread Group 1-2,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,3,0,1
+1546073934956,13,http://localhost:33143/Administator/UserSignUp/1004-8,200,OK,Thread Group 1-2,text,true,,55293,412,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,10,0,0
+1546073935353,1026,http://localhost:33143/Administator/UserSignUp/4,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-4,text,false,,72662,4087,5,5,http://localhost:33143/Administator/UserSignUp/4,132,0,1
+1546073935353,132,http://localhost:33143/Administator/UserSignUp/4-0,200,OK,Thread Group 1-4,text,true,,10034,393,5,5,http://localhost:33143/Administator/UserSignUp/4,132,0,1
+1546073935489,3,http://localhost:33143/Administator/UserSignUp/4-1,304,Not Modified,Thread Group 1-4,,true,,339,468,5,5,http://localhost:33143/css/bootstrap.css,0,0,1
+1546073935489,6,http://localhost:33143/Administator/UserSignUp/4-2,304,Not Modified,Thread Group 1-4,,true,,346,473,5,5,http://localhost:33143/css/modern-business.css,0,0,2
+1546073935490,2,http://localhost:33143/Administator/UserSignUp/4-3,304,Not Modified,Thread Group 1-4,,true,,360,482,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,0,0,1
+1546073935490,4,http://localhost:33143/Administator/UserSignUp/4-4,304,Not Modified,Thread Group 1-4,,true,,376,494,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,0,0,1
+1546073935489,890,http://localhost:33143/Administator/UserSignUp/4-5,304,Not Modified,Thread Group 1-4,,true,,170,459,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,0,0,594
+1546073935489,5,http://localhost:33143/Administator/UserSignUp/4-6,304,Not Modified,Thread Group 1-4,,true,,340,467,5,5,http://localhost:33143/js/bootstrap.js,0,0,0
+1546073935493,4,http://localhost:33143/Administator/UserSignUp/4-7,404,Not Found,Thread Group 1-4,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,4,0,1
+1546073935493,9,http://localhost:33143/Administator/UserSignUp/4-8,200,OK,Thread Group 1-4,text,true,,55293,462,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,6,0,1
+1546073931336,2412,Test,,"Number of samples in transaction : 2, number of failing samples : 2",Thread Group 1-4,,false,,291382,7660,5,5,null,211,2632,3
+1546073936174,987,http://localhost:33143/Administator/UserSignUp/4,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-5,text,false,,72660,4087,5,5,http://localhost:33143/Administator/UserSignUp/4,93,0,1
+1546073936174,93,http://localhost:33143/Administator/UserSignUp/4-0,200,OK,Thread Group 1-5,text,true,,10032,393,5,5,http://localhost:33143/Administator/UserSignUp/4,93,0,1
+1546073936272,3,http://localhost:33143/Administator/UserSignUp/4-1,304,Not Modified,Thread Group 1-5,,true,,339,468,5,5,http://localhost:33143/css/bootstrap.css,0,0,0
+1546073936273,8,http://localhost:33143/Administator/UserSignUp/4-2,304,Not Modified,Thread Group 1-5,,true,,346,473,5,5,http://localhost:33143/css/modern-business.css,0,0,1
+1546073936272,6,http://localhost:33143/Administator/UserSignUp/4-3,304,Not Modified,Thread Group 1-5,,true,,360,482,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,0,0,2
+1546073936273,7,http://localhost:33143/Administator/UserSignUp/4-4,304,Not Modified,Thread Group 1-5,,true,,376,494,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,0,0,1
+1546073936273,888,http://localhost:33143/Administator/UserSignUp/4-5,304,Not Modified,Thread Group 1-5,,true,,170,459,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,0,0,604
+1546073936273,5,http://localhost:33143/Administator/UserSignUp/4-6,304,Not Modified,Thread Group 1-5,,true,,340,467,5,5,http://localhost:33143/js/bootstrap.js,0,0,1
+1546073936276,6,http://localhost:33143/Administator/UserSignUp/4-7,404,Not Found,Thread Group 1-5,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,6,0,1
+1546073936278,9,http://localhost:33143/Administator/UserSignUp/4-8,200,OK,Thread Group 1-5,text,true,,55293,462,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,7,0,1
+1546073932728,1800,Test,,"Number of samples in transaction : 2, number of failing samples : 2",Thread Group 1-5,,false,,291381,7660,5,5,null,169,2634,2
+1546073935848,1393,http://localhost:33143/Administator/UserSignUp/1004,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-1,text,false,,218721,3573,5,5,http://localhost:33143/Administator/UserSignUp/1004,88,0,1
+1546073935848,89,http://localhost:33143/Administator/UserSignUp/1004-0,200,OK,Thread Group 1-1,text,true,,10040,396,5,5,http://localhost:33143/Administator/UserSignUp/1004,88,0,1
+1546073935943,8,http://localhost:33143/Administator/UserSignUp/1004-1,200,OK,Thread Group 1-1,text,true,,28148,385,5,5,http://localhost:33143/css/bootstrap.css,7,0,0
+1546073935943,4,http://localhost:33143/Administator/UserSignUp/1004-2,200,OK,Thread Group 1-1,text,true,,1521,391,5,5,http://localhost:33143/css/modern-business.css,4,0,0
+1546073935943,7,http://localhost:33143/Administator/UserSignUp/1004-3,200,OK,Thread Group 1-1,text,true,,22319,398,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,6,0,1
+1546073935943,7,http://localhost:33143/Administator/UserSignUp/1004-4,200,OK,Thread Group 1-1,text,true,,6172,410,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,6,0,0
+1546073935943,1298,http://localhost:33143/Administator/UserSignUp/1004-5,200,OK,Thread Group 1-1,text,true,,34129,409,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,878,0,571
+1546073935943,7,http://localhost:33143/Administator/UserSignUp/1004-6,200,OK,Thread Group 1-1,text,true,,55695,383,5,5,http://localhost:33143/js/bootstrap.js,7,0,1
+1546073935947,8,http://localhost:33143/Administator/UserSignUp/1004-7,404,Not Found,Thread Group 1-1,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,8,0,1
+1546073935950,14,http://localhost:33143/Administator/UserSignUp/1004-8,200,OK,Thread Group 1-1,text,true,,55293,412,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,8,0,1
+1546073935866,1430,http://localhost:33143/Administator/UserSignUp/1004,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-3,text,false,,218721,3573,5,5,http://localhost:33143/Administator/UserSignUp/1004,104,0,1
+1546073935866,105,http://localhost:33143/Administator/UserSignUp/1004-0,200,OK,Thread Group 1-3,text,true,,10040,396,5,5,http://localhost:33143/Administator/UserSignUp/1004,104,0,1
+1546073935975,9,http://localhost:33143/Administator/UserSignUp/1004-1,200,OK,Thread Group 1-3,text,true,,28148,385,5,5,http://localhost:33143/css/bootstrap.css,8,0,0
+1546073935975,9,http://localhost:33143/Administator/UserSignUp/1004-2,200,OK,Thread Group 1-3,text,true,,1521,391,5,5,http://localhost:33143/css/modern-business.css,9,0,1
+1546073935975,15,http://localhost:33143/Administator/UserSignUp/1004-3,200,OK,Thread Group 1-3,text,true,,22319,398,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,15,0,1
+1546073935975,25,http://localhost:33143/Administator/UserSignUp/1004-4,200,OK,Thread Group 1-3,text,true,,6172,410,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,25,0,3
+1546073935976,1320,http://localhost:33143/Administator/UserSignUp/1004-5,200,OK,Thread Group 1-3,text,true,,34129,409,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,886,0,595
+1546073935976,24,http://localhost:33143/Administator/UserSignUp/1004-6,200,OK,Thread Group 1-3,text,true,,55695,383,5,5,http://localhost:33143/js/bootstrap.js,24,0,1
+1546073935985,6,http://localhost:33143/Administator/UserSignUp/1004-7,404,Not Found,Thread Group 1-3,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,6,0,1
+1546073935985,25,http://localhost:33143/Administator/UserSignUp/1004-8,200,OK,Thread Group 1-3,text,true,,55293,412,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,14,0,1
+1546073936381,1421,http://localhost:33143/Administator/UserSignUp/1004,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-4,text,false,,218719,3573,5,5,http://localhost:33143/Administator/UserSignUp/1004,107,0,1
+1546073936381,116,http://localhost:33143/Administator/UserSignUp/1004-0,200,OK,Thread Group 1-4,text,true,,10038,396,5,5,http://localhost:33143/Administator/UserSignUp/1004,107,0,1
+1546073936502,11,http://localhost:33143/Administator/UserSignUp/1004-1,200,OK,Thread Group 1-4,text,true,,28148,385,5,5,http://localhost:33143/css/bootstrap.css,10,0,0
+1546073936502,8,http://localhost:33143/Administator/UserSignUp/1004-2,200,OK,Thread Group 1-4,text,true,,1521,391,5,5,http://localhost:33143/css/modern-business.css,8,0,1
+1546073936503,18,http://localhost:33143/Administator/UserSignUp/1004-3,200,OK,Thread Group 1-4,text,true,,22319,398,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,18,0,1
+1546073936504,17,http://localhost:33143/Administator/UserSignUp/1004-4,200,OK,Thread Group 1-4,text,true,,6172,410,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,17,0,1
+1546073936505,1297,http://localhost:33143/Administator/UserSignUp/1004-5,200,OK,Thread Group 1-4,text,true,,34129,409,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,895,0,611
+1546073936506,18,http://localhost:33143/Administator/UserSignUp/1004-6,200,OK,Thread Group 1-4,text,true,,55695,383,5,5,http://localhost:33143/js/bootstrap.js,18,0,1
+1546073936511,6,http://localhost:33143/Administator/UserSignUp/1004-7,404,Not Found,Thread Group 1-4,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,6,0,0
+1546073936514,15,http://localhost:33143/Administator/UserSignUp/1004-8,200,OK,Thread Group 1-4,text,true,,55293,412,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,6,0,1
+1546073937164,1406,http://localhost:33143/Administator/UserSignUp/1004,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-5,text,false,,218721,3573,5,5,http://localhost:33143/Administator/UserSignUp/1004,67,0,1
+1546073937164,68,http://localhost:33143/Administator/UserSignUp/1004-0,200,OK,Thread Group 1-5,text,true,,10040,396,5,5,http://localhost:33143/Administator/UserSignUp/1004,67,0,1
+1546073937234,6,http://localhost:33143/Administator/UserSignUp/1004-1,200,OK,Thread Group 1-5,text,true,,28148,385,5,5,http://localhost:33143/css/bootstrap.css,6,0,0
+1546073937234,4,http://localhost:33143/Administator/UserSignUp/1004-2,200,OK,Thread Group 1-5,text,true,,1521,391,5,5,http://localhost:33143/css/modern-business.css,4,0,1
+1546073937234,9,http://localhost:33143/Administator/UserSignUp/1004-3,200,OK,Thread Group 1-5,text,true,,22319,398,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,9,0,1
+1546073937234,3,http://localhost:33143/Administator/UserSignUp/1004-4,200,OK,Thread Group 1-5,text,true,,6172,410,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,3,0,1
+1546073937234,1336,http://localhost:33143/Administator/UserSignUp/1004-5,200,OK,Thread Group 1-5,text,true,,34129,409,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,919,0,571
+1546073937234,3,http://localhost:33143/Administator/UserSignUp/1004-6,200,OK,Thread Group 1-5,text,true,,55695,383,5,5,http://localhost:33143/js/bootstrap.js,3,0,1
+1546073937237,6,http://localhost:33143/Administator/UserSignUp/1004-7,404,Not Found,Thread Group 1-5,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,6,0,1
+1546073937237,13,http://localhost:33143/Administator/UserSignUp/1004-8,200,OK,Thread Group 1-5,text,true,,55293,412,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,9,0,1
+1546073938879,1095,http://localhost:33143/Administator/UserSignUp/4,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-2,text,false,,72664,4087,5,5,http://localhost:33143/Administator/UserSignUp/4,147,0,1
+1546073938879,147,http://localhost:33143/Administator/UserSignUp/4-0,200,OK,Thread Group 1-2,text,true,,10036,393,5,5,http://localhost:33143/Administator/UserSignUp/4,147,0,1
+1546073939030,6,http://localhost:33143/Administator/UserSignUp/4-1,304,Not Modified,Thread Group 1-2,,true,,339,468,5,5,http://localhost:33143/css/bootstrap.css,0,0,1
+1546073939030,13,http://localhost:33143/Administator/UserSignUp/4-2,304,Not Modified,Thread Group 1-2,,true,,346,473,5,5,http://localhost:33143/css/modern-business.css,0,0,2
+1546073939030,4,http://localhost:33143/Administator/UserSignUp/4-3,304,Not Modified,Thread Group 1-2,,true,,360,482,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,0,0,0
+1546073939030,10,http://localhost:33143/Administator/UserSignUp/4-4,304,Not Modified,Thread Group 1-2,,true,,376,494,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,0,0,1
+1546073939031,943,http://localhost:33143/Administator/UserSignUp/4-5,304,Not Modified,Thread Group 1-2,,true,,170,459,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,0,0,661
+1546073939031,11,http://localhost:33143/Administator/UserSignUp/4-6,304,Not Modified,Thread Group 1-2,,true,,340,467,5,5,http://localhost:33143/js/bootstrap.js,0,0,1
+1546073939034,13,http://localhost:33143/Administator/UserSignUp/4-7,404,Not Found,Thread Group 1-2,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,13,0,0
+1546073939036,17,http://localhost:33143/Administator/UserSignUp/4-8,200,OK,Thread Group 1-2,text,true,,55293,462,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,14,0,2
+1546073934837,2508,Test,,"Number of samples in transaction : 2, number of failing samples : 2",Thread Group 1-2,,false,,291383,7660,5,5,null,251,2630,1
+1546073939922,500,http://localhost:33143/Administator/UserSignUp/4,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-3,text,false,,72662,4087,5,5,http://localhost:33143/Administator/UserSignUp/4,72,0,1
+1546073939922,73,http://localhost:33143/Administator/UserSignUp/4-0,200,OK,Thread Group 1-3,text,true,,10034,393,5,5,http://localhost:33143/Administator/UserSignUp/4,72,0,1
+1546073939999,9,http://localhost:33143/Administator/UserSignUp/4-1,304,Not Modified,Thread Group 1-3,,true,,339,468,5,5,http://localhost:33143/css/bootstrap.css,0,0,0
+1546073939999,7,http://localhost:33143/Administator/UserSignUp/4-2,304,Not Modified,Thread Group 1-3,,true,,346,473,5,5,http://localhost:33143/css/modern-business.css,0,0,0
+1546073939999,3,http://localhost:33143/Administator/UserSignUp/4-3,304,Not Modified,Thread Group 1-3,,true,,360,482,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,0,0,0
+1546073940000,10,http://localhost:33143/Administator/UserSignUp/4-4,304,Not Modified,Thread Group 1-3,,true,,376,494,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,0,0,3
+1546073939999,423,http://localhost:33143/Administator/UserSignUp/4-5,304,Not Modified,Thread Group 1-3,,true,,170,459,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,0,0,307
+1546073939999,15,http://localhost:33143/Administator/UserSignUp/4-6,304,Not Modified,Thread Group 1-3,,true,,340,467,5,5,http://localhost:33143/js/bootstrap.js,0,0,5
+1546073940002,11,http://localhost:33143/Administator/UserSignUp/4-7,404,Not Found,Thread Group 1-3,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,11,0,1
+1546073940007,20,http://localhost:33143/Administator/UserSignUp/4-8,200,OK,Thread Group 1-3,text,true,,55293,462,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,10,0,0
+1546073935865,1930,Test,,"Number of samples in transaction : 2, number of failing samples : 2",Thread Group 1-3,,false,,291383,7660,5,5,null,176,2642,2
+1546073939867,1000,http://localhost:33143/Administator/UserSignUp/4,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-1,text,false,,72664,4087,5,5,http://localhost:33143/Administator/UserSignUp/4,71,0,1
+1546073939867,71,http://localhost:33143/Administator/UserSignUp/4-0,200,OK,Thread Group 1-1,text,true,,10036,393,5,5,http://localhost:33143/Administator/UserSignUp/4,71,0,1
+1546073939942,8,http://localhost:33143/Administator/UserSignUp/4-1,304,Not Modified,Thread Group 1-1,,true,,339,468,5,5,http://localhost:33143/css/bootstrap.css,0,0,1
+1546073939942,4,http://localhost:33143/Administator/UserSignUp/4-2,304,Not Modified,Thread Group 1-1,,true,,346,473,5,5,http://localhost:33143/css/modern-business.css,0,0,0
+1546073939942,10,http://localhost:33143/Administator/UserSignUp/4-3,304,Not Modified,Thread Group 1-1,,true,,360,482,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,0,0,0
+1546073939942,6,http://localhost:33143/Administator/UserSignUp/4-4,304,Not Modified,Thread Group 1-1,,true,,376,494,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,0,0,1
+1546073939943,924,http://localhost:33143/Administator/UserSignUp/4-5,304,Not Modified,Thread Group 1-1,,true,,170,459,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,0,0,645
+1546073939943,6,http://localhost:33143/Administator/UserSignUp/4-6,304,Not Modified,Thread Group 1-1,,true,,340,467,5,5,http://localhost:33143/js/bootstrap.js,0,0,0
+1546073939946,8,http://localhost:33143/Administator/UserSignUp/4-7,404,Not Found,Thread Group 1-1,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,8,0,1
+1546073939949,10,http://localhost:33143/Administator/UserSignUp/4-8,200,OK,Thread Group 1-1,text,true,,55293,462,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,7,0,0
+1546073935846,2393,Test,,"Number of samples in transaction : 2, number of failing samples : 2",Thread Group 1-1,,false,,291385,7660,5,5,null,159,2630,2
+1546073940478,768,http://localhost:33143/Administator/UserSignUp/1004,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-3,text,false,,218720,3573,5,5,http://localhost:33143/Administator/UserSignUp/1004,130,0,0
+1546073940478,130,http://localhost:33143/Administator/UserSignUp/1004-0,200,OK,Thread Group 1-3,text,true,,10039,396,5,5,http://localhost:33143/Administator/UserSignUp/1004,130,0,0
+1546073940612,9,http://localhost:33143/Administator/UserSignUp/1004-1,200,OK,Thread Group 1-3,text,true,,28148,385,5,5,http://localhost:33143/css/bootstrap.css,8,0,0
+1546073940612,4,http://localhost:33143/Administator/UserSignUp/1004-2,200,OK,Thread Group 1-3,text,true,,1521,391,5,5,http://localhost:33143/css/modern-business.css,4,0,1
+1546073940613,11,http://localhost:33143/Administator/UserSignUp/1004-3,200,OK,Thread Group 1-3,text,true,,22319,398,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,11,0,0
+1546073940613,11,http://localhost:33143/Administator/UserSignUp/1004-4,200,OK,Thread Group 1-3,text,true,,6172,410,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,11,0,0
+1546073940613,633,http://localhost:33143/Administator/UserSignUp/1004-5,200,OK,Thread Group 1-3,text,true,,34129,409,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,427,0,314
+1546073940613,11,http://localhost:33143/Administator/UserSignUp/1004-6,200,OK,Thread Group 1-3,text,true,,55695,383,5,5,http://localhost:33143/js/bootstrap.js,11,0,1
+1546073940617,7,http://localhost:33143/Administator/UserSignUp/1004-7,404,Not Found,Thread Group 1-3,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,7,0,1
+1546073940622,11,http://localhost:33143/Administator/UserSignUp/1004-8,200,OK,Thread Group 1-3,text,true,,55293,412,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,6,0,1
+1546073939977,1338,http://localhost:33143/Administator/UserSignUp/1004,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-2,text,false,,218717,3573,5,5,http://localhost:33143/Administator/UserSignUp/1004,75,0,1
+1546073939977,75,http://localhost:33143/Administator/UserSignUp/1004-0,200,OK,Thread Group 1-2,text,true,,10036,396,5,5,http://localhost:33143/Administator/UserSignUp/1004,75,0,1
+1546073940054,12,http://localhost:33143/Administator/UserSignUp/1004-1,200,OK,Thread Group 1-2,text,true,,28148,385,5,5,http://localhost:33143/css/bootstrap.css,11,0,3
+1546073940055,6,http://localhost:33143/Administator/UserSignUp/1004-2,200,OK,Thread Group 1-2,text,true,,1521,391,5,5,http://localhost:33143/css/modern-business.css,5,0,1
+1546073940054,14,http://localhost:33143/Administator/UserSignUp/1004-3,200,OK,Thread Group 1-2,text,true,,22319,398,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,14,0,4
+1546073940054,15,http://localhost:33143/Administator/UserSignUp/1004-4,200,OK,Thread Group 1-2,text,true,,6172,410,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,15,0,0
+1546073940054,1261,http://localhost:33143/Administator/UserSignUp/1004-5,200,OK,Thread Group 1-2,text,true,,34129,409,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,854,0,563
+1546073940055,14,http://localhost:33143/Administator/UserSignUp/1004-6,200,OK,Thread Group 1-2,text,true,,55695,383,5,5,http://localhost:33143/js/bootstrap.js,14,0,0
+1546073940061,9,http://localhost:33143/Administator/UserSignUp/1004-7,404,Not Found,Thread Group 1-2,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,9,0,2
+1546073940067,17,http://localhost:33143/Administator/UserSignUp/1004-8,200,OK,Thread Group 1-2,text,true,,55293,412,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,13,0,1
+1546073940874,580,http://localhost:33143/Administator/UserSignUp/1004,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-1,text,false,,218719,3573,5,5,http://localhost:33143/Administator/UserSignUp/1004,90,0,3
+1546073940874,91,http://localhost:33143/Administator/UserSignUp/1004-0,200,OK,Thread Group 1-1,text,true,,10038,396,5,5,http://localhost:33143/Administator/UserSignUp/1004,90,0,3
+1546073940968,7,http://localhost:33143/Administator/UserSignUp/1004-1,200,OK,Thread Group 1-1,text,true,,28148,385,5,5,http://localhost:33143/css/bootstrap.css,6,0,0
+1546073940968,3,http://localhost:33143/Administator/UserSignUp/1004-2,200,OK,Thread Group 1-1,text,true,,1521,391,5,5,http://localhost:33143/css/modern-business.css,3,0,1
+1546073940968,8,http://localhost:33143/Administator/UserSignUp/1004-3,200,OK,Thread Group 1-1,text,true,,22319,398,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,8,0,1
+1546073940968,8,http://localhost:33143/Administator/UserSignUp/1004-4,200,OK,Thread Group 1-1,text,true,,6172,410,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,8,0,0
+1546073940968,486,http://localhost:33143/Administator/UserSignUp/1004-5,200,OK,Thread Group 1-1,text,true,,34129,409,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,328,0,217
+1546073940968,6,http://localhost:33143/Administator/UserSignUp/1004-6,200,OK,Thread Group 1-1,text,true,,55695,383,5,5,http://localhost:33143/js/bootstrap.js,6,0,0
+1546073940972,3,http://localhost:33143/Administator/UserSignUp/1004-7,404,Not Found,Thread Group 1-1,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,3,0,0
+1546073940974,13,http://localhost:33143/Administator/UserSignUp/1004-8,200,OK,Thread Group 1-1,text,true,,55293,412,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,9,0,2
+1546073940428,1033,http://localhost:33143/Administator/UserSignUp/4,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-4,text,false,,72664,4087,5,5,http://localhost:33143/Administator/UserSignUp/4,163,0,4
+1546073940428,164,http://localhost:33143/Administator/UserSignUp/4-0,200,OK,Thread Group 1-4,text,true,,10036,393,5,5,http://localhost:33143/Administator/UserSignUp/4,163,0,4
+1546073940595,4,http://localhost:33143/Administator/UserSignUp/4-1,304,Not Modified,Thread Group 1-4,,true,,339,468,5,5,http://localhost:33143/css/bootstrap.css,0,0,0
+1546073940595,10,http://localhost:33143/Administator/UserSignUp/4-2,304,Not Modified,Thread Group 1-4,,true,,346,473,5,5,http://localhost:33143/css/modern-business.css,0,0,1
+1546073940595,13,http://localhost:33143/Administator/UserSignUp/4-3,304,Not Modified,Thread Group 1-4,,true,,360,482,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,0,0,2
+1546073940595,7,http://localhost:33143/Administator/UserSignUp/4-4,304,Not Modified,Thread Group 1-4,,true,,376,494,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,0,0,1
+1546073940596,865,http://localhost:33143/Administator/UserSignUp/4-5,304,Not Modified,Thread Group 1-4,,true,,170,459,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,0,0,581
+1546073940596,14,http://localhost:33143/Administator/UserSignUp/4-6,304,Not Modified,Thread Group 1-4,,true,,340,467,5,5,http://localhost:33143/js/bootstrap.js,0,0,1
+1546073940599,22,http://localhost:33143/Administator/UserSignUp/4-7,404,Not Found,Thread Group 1-4,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,22,0,1
+1546073940602,30,http://localhost:33143/Administator/UserSignUp/4-8,200,OK,Thread Group 1-4,text,true,,55293,462,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,22,0,1
+1546073936380,2454,Test,,"Number of samples in transaction : 2, number of failing samples : 2",Thread Group 1-4,,false,,291383,7660,5,5,null,270,2627,5
+1546073941197,955,http://localhost:33143/Administator/UserSignUp/4,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-5,text,false,,72664,4087,5,5,http://localhost:33143/Administator/UserSignUp/4,81,0,4
+1546073941197,81,http://localhost:33143/Administator/UserSignUp/4-0,200,OK,Thread Group 1-5,text,true,,10036,393,5,5,http://localhost:33143/Administator/UserSignUp/4,81,0,4
+1546073941282,7,http://localhost:33143/Administator/UserSignUp/4-1,304,Not Modified,Thread Group 1-5,,true,,339,468,5,5,http://localhost:33143/css/bootstrap.css,0,0,2
+1546073941282,3,http://localhost:33143/Administator/UserSignUp/4-2,304,Not Modified,Thread Group 1-5,,true,,346,473,5,5,http://localhost:33143/css/modern-business.css,0,0,1
+1546073941282,3,http://localhost:33143/Administator/UserSignUp/4-3,304,Not Modified,Thread Group 1-5,,true,,360,482,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,0,0,0
+1546073941282,7,http://localhost:33143/Administator/UserSignUp/4-4,304,Not Modified,Thread Group 1-5,,true,,376,494,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,0,0,1
+1546073941283,869,http://localhost:33143/Administator/UserSignUp/4-5,304,Not Modified,Thread Group 1-5,,true,,170,459,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,0,0,581
+1546073941283,4,http://localhost:33143/Administator/UserSignUp/4-6,304,Not Modified,Thread Group 1-5,,true,,340,467,5,5,http://localhost:33143/js/bootstrap.js,0,0,0
+1546073941286,5,http://localhost:33143/Administator/UserSignUp/4-7,404,Not Found,Thread Group 1-5,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,5,0,0
+1546073941285,13,http://localhost:33143/Administator/UserSignUp/4-8,200,OK,Thread Group 1-5,text,true,,55293,462,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,8,0,1
+1546073937162,2361,Test,,"Number of samples in transaction : 2, number of failing samples : 2",Thread Group 1-5,,false,,291385,7660,5,5,null,148,2629,5
+1546073941463,1383,http://localhost:33143/Administator/UserSignUp/1004,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-4,text,false,,218717,3573,5,5,http://localhost:33143/Administator/UserSignUp/1004,61,0,0
+1546073941463,61,http://localhost:33143/Administator/UserSignUp/1004-0,200,OK,Thread Group 1-4,text,true,,10036,396,5,5,http://localhost:33143/Administator/UserSignUp/1004,61,0,0
+1546073941528,6,http://localhost:33143/Administator/UserSignUp/1004-1,200,OK,Thread Group 1-4,text,true,,28148,385,5,5,http://localhost:33143/css/bootstrap.css,5,0,0
+1546073941528,2,http://localhost:33143/Administator/UserSignUp/1004-2,200,OK,Thread Group 1-4,text,true,,1521,391,5,5,http://localhost:33143/css/modern-business.css,2,0,1
+1546073941528,10,http://localhost:33143/Administator/UserSignUp/1004-3,200,OK,Thread Group 1-4,text,true,,22319,398,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,10,0,1
+1546073941528,6,http://localhost:33143/Administator/UserSignUp/1004-4,200,OK,Thread Group 1-4,text,true,,6172,410,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,6,0,0
+1546073941528,1318,http://localhost:33143/Administator/UserSignUp/1004-5,200,OK,Thread Group 1-4,text,true,,34129,409,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,926,0,617
+1546073941528,10,http://localhost:33143/Administator/UserSignUp/1004-6,200,OK,Thread Group 1-4,text,true,,55695,383,5,5,http://localhost:33143/js/bootstrap.js,10,0,0
+1546073941531,4,http://localhost:33143/Administator/UserSignUp/1004-7,404,Not Found,Thread Group 1-4,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,4,0,0
+1546073941534,10,http://localhost:33143/Administator/UserSignUp/1004-8,200,OK,Thread Group 1-4,text,true,,55293,412,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,7,0,1
+1546073942154,1429,http://localhost:33143/Administator/UserSignUp/1004,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-5,text,false,,218721,3573,5,5,http://localhost:33143/Administator/UserSignUp/1004,74,0,0
+1546073942154,74,http://localhost:33143/Administator/UserSignUp/1004-0,200,OK,Thread Group 1-5,text,true,,10040,396,5,5,http://localhost:33143/Administator/UserSignUp/1004,74,0,0
+1546073942231,7,http://localhost:33143/Administator/UserSignUp/1004-1,200,OK,Thread Group 1-5,text,true,,28148,385,5,5,http://localhost:33143/css/bootstrap.css,6,0,0
+1546073942230,3,http://localhost:33143/Administator/UserSignUp/1004-2,200,OK,Thread Group 1-5,text,true,,1521,391,5,5,http://localhost:33143/css/modern-business.css,3,0,1
+1546073942230,10,http://localhost:33143/Administator/UserSignUp/1004-3,200,OK,Thread Group 1-5,text,true,,22319,398,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,10,0,1
+1546073942230,3,http://localhost:33143/Administator/UserSignUp/1004-4,200,OK,Thread Group 1-5,text,true,,6172,410,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,3,0,0
+1546073942230,1353,http://localhost:33143/Administator/UserSignUp/1004-5,200,OK,Thread Group 1-5,text,true,,34129,409,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,934,0,575
+1546073942230,10,http://localhost:33143/Administator/UserSignUp/1004-6,200,OK,Thread Group 1-5,text,true,,55695,383,5,5,http://localhost:33143/js/bootstrap.js,9,0,2
+1546073942233,4,http://localhost:33143/Administator/UserSignUp/1004-7,404,Not Found,Thread Group 1-5,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,4,0,1
+1546073942234,11,http://localhost:33143/Administator/UserSignUp/1004-8,200,OK,Thread Group 1-5,text,true,,55293,412,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,6,0,0
+1546073943874,451,http://localhost:33143/Administator/UserSignUp/4,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-3,text,false,,72662,4087,5,5,http://localhost:33143/Administator/UserSignUp/4,90,0,3
+1546073943874,91,http://localhost:33143/Administator/UserSignUp/4-0,200,OK,Thread Group 1-3,text,true,,10034,393,5,5,http://localhost:33143/Administator/UserSignUp/4,90,0,3
+1546073943970,12,http://localhost:33143/Administator/UserSignUp/4-1,304,Not Modified,Thread Group 1-3,,true,,339,468,5,5,http://localhost:33143/css/bootstrap.css,0,0,4
+1546073943973,10,http://localhost:33143/Administator/UserSignUp/4-2,304,Not Modified,Thread Group 1-3,,true,,346,473,5,5,http://localhost:33143/css/modern-business.css,0,0,3
+1546073943975,12,http://localhost:33143/Administator/UserSignUp/4-3,304,Not Modified,Thread Group 1-3,,true,,360,482,5,5,http://localhost:33143/Scripts/jquery.validate.min.js,0,0,0
+1546073943971,5,http://localhost:33143/Administator/UserSignUp/4-4,304,Not Modified,Thread Group 1-3,,true,,376,494,5,5,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,0,0,0
+1546073943971,354,http://localhost:33143/Administator/UserSignUp/4-5,304,Not Modified,Thread Group 1-3,,true,,170,459,5,5,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,0,0,238
+1546073943972,13,http://localhost:33143/Administator/UserSignUp/4-6,304,Not Modified,Thread Group 1-3,,true,,340,467,5,5,http://localhost:33143/js/bootstrap.js,0,0,2
+1546073943977,4,http://localhost:33143/Administator/UserSignUp/4-7,404,Not Found,Thread Group 1-3,text,false,,5404,389,5,5,http://localhost:33143/js/modern-business.js,4,0,0
+1546073943981,13,http://localhost:33143/Administator/UserSignUp/4-8,200,OK,Thread Group 1-3,text,true,,55293,462,5,5,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,9,0,1
+1546073940438,1219,Test,,"Number of samples in transaction : 2, number of failing samples : 2",Thread Group 1-3,,false,,291382,7660,5,5,null,220,2669,3
+1546073943941,930,http://localhost:33143/Administator/UserSignUp/4,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-2,text,false,,72662,4087,4,4,http://localhost:33143/Administator/UserSignUp/4,80,0,1
+1546073943941,80,http://localhost:33143/Administator/UserSignUp/4-0,200,OK,Thread Group 1-2,text,true,,10034,393,4,4,http://localhost:33143/Administator/UserSignUp/4,80,0,1
+1546073944023,2,http://localhost:33143/Administator/UserSignUp/4-1,304,Not Modified,Thread Group 1-2,,true,,339,468,4,4,http://localhost:33143/css/bootstrap.css,0,0,0
+1546073944023,7,http://localhost:33143/Administator/UserSignUp/4-2,304,Not Modified,Thread Group 1-2,,true,,346,473,4,4,http://localhost:33143/css/modern-business.css,0,0,2
+1546073944023,6,http://localhost:33143/Administator/UserSignUp/4-3,304,Not Modified,Thread Group 1-2,,true,,360,482,4,4,http://localhost:33143/Scripts/jquery.validate.min.js,0,0,0
+1546073944023,4,http://localhost:33143/Administator/UserSignUp/4-4,304,Not Modified,Thread Group 1-2,,true,,376,494,4,4,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,0,0,2
+1546073944023,848,http://localhost:33143/Administator/UserSignUp/4-5,304,Not Modified,Thread Group 1-2,,true,,170,459,4,4,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,0,0,572
+1546073944023,5,http://localhost:33143/Administator/UserSignUp/4-6,304,Not Modified,Thread Group 1-2,,true,,340,467,4,4,http://localhost:33143/js/bootstrap.js,0,0,2
+1546073944025,6,http://localhost:33143/Administator/UserSignUp/4-7,404,Not Found,Thread Group 1-2,text,false,,5404,389,4,4,http://localhost:33143/js/modern-business.js,6,0,1
+1546073944028,10,http://localhost:33143/Administator/UserSignUp/4-8,200,OK,Thread Group 1-2,text,true,,55293,462,4,4,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,7,0,0
+1546073939975,2268,Test,,"Number of samples in transaction : 2, number of failing samples : 2",Thread Group 1-2,,false,,291379,7660,4,4,null,155,2629,2
+1546073944079,1036,http://localhost:33143/Administator/UserSignUp/4,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-1,text,false,,72663,4087,3,3,http://localhost:33143/Administator/UserSignUp/4,113,0,1
+1546073944079,113,http://localhost:33143/Administator/UserSignUp/4-0,200,OK,Thread Group 1-1,text,true,,10035,393,3,3,http://localhost:33143/Administator/UserSignUp/4,113,0,1
+1546073944194,7,http://localhost:33143/Administator/UserSignUp/4-1,304,Not Modified,Thread Group 1-1,,true,,339,468,3,3,http://localhost:33143/css/bootstrap.css,0,0,3
+1546073944194,3,http://localhost:33143/Administator/UserSignUp/4-2,304,Not Modified,Thread Group 1-1,,true,,346,473,3,3,http://localhost:33143/css/modern-business.css,0,0,0
+1546073944195,3,http://localhost:33143/Administator/UserSignUp/4-3,304,Not Modified,Thread Group 1-1,,true,,360,482,3,3,http://localhost:33143/Scripts/jquery.validate.min.js,0,0,0
+1546073944195,3,http://localhost:33143/Administator/UserSignUp/4-4,304,Not Modified,Thread Group 1-1,,true,,376,494,3,3,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,0,0,1
+1546073944195,920,http://localhost:33143/Administator/UserSignUp/4-5,304,Not Modified,Thread Group 1-1,,true,,170,459,3,3,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,0,0,615
+1546073944196,5,http://localhost:33143/Administator/UserSignUp/4-6,304,Not Modified,Thread Group 1-1,,true,,340,467,3,3,http://localhost:33143/js/bootstrap.js,0,0,1
+1546073944198,3,http://localhost:33143/Administator/UserSignUp/4-7,404,Not Found,Thread Group 1-1,text,false,,5404,389,3,3,http://localhost:33143/js/modern-business.js,3,0,0
+1546073944198,9,http://localhost:33143/Administator/UserSignUp/4-8,200,OK,Thread Group 1-1,text,true,,55293,462,3,3,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,6,0,0
+1546073940869,1616,Test,,"Number of samples in transaction : 2, number of failing samples : 2",Thread Group 1-1,,false,,291382,7660,3,3,null,203,2633,4
+1546073945473,1077,http://localhost:33143/Administator/UserSignUp/4,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-4,text,false,,72663,4087,2,2,http://localhost:33143/Administator/UserSignUp/4,70,0,1
+1546073945473,71,http://localhost:33143/Administator/UserSignUp/4-0,200,OK,Thread Group 1-4,text,true,,10035,393,2,2,http://localhost:33143/Administator/UserSignUp/4,70,0,1
+1546073945548,3,http://localhost:33143/Administator/UserSignUp/4-1,304,Not Modified,Thread Group 1-4,,true,,339,468,2,2,http://localhost:33143/css/bootstrap.css,0,0,0
+1546073945548,10,http://localhost:33143/Administator/UserSignUp/4-2,304,Not Modified,Thread Group 1-4,,true,,346,473,2,2,http://localhost:33143/css/modern-business.css,0,0,2
+1546073945548,4,http://localhost:33143/Administator/UserSignUp/4-3,304,Not Modified,Thread Group 1-4,,true,,360,482,2,2,http://localhost:33143/Scripts/jquery.validate.min.js,0,0,0
+1546073945548,7,http://localhost:33143/Administator/UserSignUp/4-4,304,Not Modified,Thread Group 1-4,,true,,376,494,2,2,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,0,0,1
+1546073945548,1002,http://localhost:33143/Administator/UserSignUp/4-5,304,Not Modified,Thread Group 1-4,,true,,170,459,2,2,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,0,0,694
+1546073945549,7,http://localhost:33143/Administator/UserSignUp/4-6,304,Not Modified,Thread Group 1-4,,true,,340,467,2,2,http://localhost:33143/js/bootstrap.js,0,0,1
+1546073945552,6,http://localhost:33143/Administator/UserSignUp/4-7,404,Not Found,Thread Group 1-4,text,false,,5404,389,2,2,http://localhost:33143/js/modern-business.js,6,0,0
+1546073945552,12,http://localhost:33143/Administator/UserSignUp/4-8,200,OK,Thread Group 1-4,text,true,,55293,462,2,2,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,9,0,0
+1546073941461,2460,Test,,"Number of samples in transaction : 2, number of failing samples : 2",Thread Group 1-4,,false,,291380,7660,2,2,null,131,2631,1
+1546073946210,1056,http://localhost:33143/Administator/UserSignUp/4,200,"Embedded resource download error:http://localhost:33143/js/modern-business.js code:404 message:Not Found, ",Thread Group 1-5,text,false,,72662,4087,1,1,http://localhost:33143/Administator/UserSignUp/4,113,0,1
+1546073946210,114,http://localhost:33143/Administator/UserSignUp/4-0,200,OK,Thread Group 1-5,text,true,,10034,393,1,1,http://localhost:33143/Administator/UserSignUp/4,113,0,1
+1546073946327,2,http://localhost:33143/Administator/UserSignUp/4-1,304,Not Modified,Thread Group 1-5,,true,,339,468,1,1,http://localhost:33143/css/bootstrap.css,0,0,0
+1546073946327,5,http://localhost:33143/Administator/UserSignUp/4-2,304,Not Modified,Thread Group 1-5,,true,,346,473,1,1,http://localhost:33143/css/modern-business.css,0,0,1
+1546073946327,4,http://localhost:33143/Administator/UserSignUp/4-3,304,Not Modified,Thread Group 1-5,,true,,360,482,1,1,http://localhost:33143/Scripts/jquery.validate.min.js,0,0,1
+1546073946327,2,http://localhost:33143/Administator/UserSignUp/4-4,304,Not Modified,Thread Group 1-5,,true,,376,494,1,1,http://localhost:33143/Scripts/jquery.validate.unobtrusive.min.js,0,0,1
+1546073946327,939,http://localhost:33143/Administator/UserSignUp/4-5,304,Not Modified,Thread Group 1-5,,true,,170,459,1,1,https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js,0,0,577
+1546073946327,5,http://localhost:33143/Administator/UserSignUp/4-6,304,Not Modified,Thread Group 1-5,,true,,340,467,1,1,http://localhost:33143/js/bootstrap.js,0,0,1
+1546073946329,4,http://localhost:33143/Administator/UserSignUp/4-7,404,Not Found,Thread Group 1-5,text,false,,5404,389,1,1,http://localhost:33143/js/modern-business.js,4,0,1
+1546073946329,11,http://localhost:33143/Administator/UserSignUp/4-8,200,OK,Thread Group 1-5,text,true,,55293,462,1,1,http://localhost:45157/6639822e5924419d907fe0f7a5fe5d63/browserLink,9,0,1
+1546073942152,2485,Test,,"Number of samples in transaction : 2, number of failing samples : 2",Thread Group 1-5,,false,,291383,7660,1,1,null,187,2631,1
